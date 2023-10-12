@@ -26,7 +26,7 @@ You need to modify the settings in the dbus-kaco_blueplanet.py as needed:
 
 2. Copy the files to the /data folder on your venus:
 
-   - /data/dbus-kaco blueplanet/dbus-kaco_blueplanet.py
+   - /data/dbus-kaco_blueplanet/dbus-kaco_blueplanet.py
    - /data/dbus-kaco_blueplanet/kill_me.sh
    - /data/dbus-kaco_blueplanet/service/run
    - /data/dbus-kaco_blueplanet/service/log/run
