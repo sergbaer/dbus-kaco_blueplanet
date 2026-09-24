@@ -33,8 +33,8 @@ from vedbus import VeDbusService
 
 # ----------------------------------------------------------------
 VERSION     = "0.1"
-SERVER_HOST = "192.168.178.63"
-SERVER_PORT = 502
+SERVER_HOST = "192.168.178.175"
+SERVER_PORT = 8484
 UNIT = 3
 # ----------------------------------------------------------------
 CONNECTION  = "ModbusTCP " + SERVER_HOST + ":" + str(SERVER_PORT) + ", UNIT " + str(UNIT)
